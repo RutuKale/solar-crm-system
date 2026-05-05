@@ -1,0 +1,38 @@
+export const customersData = [
+  {
+    id: 2,
+    name: "Anas",
+    phone: "9812345678",
+    city: "Nashik",
+    status: "Survey Done",
+    load: "5 kW Load",
+    progress: 6,
+  },
+  {
+    id: 9,
+    name: "Farheen",
+    phone: "123456789",
+    city: "Nashik",
+    status: "Survey Done",
+    load: "Load not set",
+    progress: 2,
+  },
+  {
+    id: 19,
+    name: "Test",
+    phone: "+919309973905",
+    city: "Jalgaon, MH",
+    status: "Survey Pending",
+    load: "Load not set",
+    progress: 0,
+  },
+  {
+    id: 20,
+    name: "umar shaikh",
+    phone: "67567343988",
+    city: "City not set",
+    status: "Survey Pending",
+    load: "Load not set",
+    progress: 0,
+  },
+];
